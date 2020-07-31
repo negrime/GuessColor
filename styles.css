@@ -1,0 +1,35 @@
+table {
+    text-align: center;
+    width: 40%;
+    margin-top: 10%;
+}
+
+table, td, th {
+    border: 1px solid black;
+}
+
+.center {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+td {
+    border: solid black 10px;
+    height: 300px;
+}
+
+p {
+    text-align: center;
+    font-weight: bold;
+}
+
+.btn {
+    text-align: center;
+}
+
+h1 {
+    color: azure;
+    text-shadow: black 0 0 5px;
+}
